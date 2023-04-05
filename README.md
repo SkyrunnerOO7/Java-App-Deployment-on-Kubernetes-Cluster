@@ -8,14 +8,14 @@ The multi-tier application stack has been containerized and needs to be tested b
 
 ## Technologies and Tools Used
 
-Kubernetes: Orchestration tool
-Kubernetes cluster
-Docker: Container runtime
-Docker Hub: Container registry
-Git: Version control system
-Memcached: In-memory caching system
-Rabbitmq: Message broker
-Tomcat: Web application server
+* Kubernetes: Orchestration tool
+* Kubernetes cluster
+* Docker: Container runtime
+* Docker Hub: Container registry
+* Git: Version control system
+* Memcached: In-memory caching system
+* Rabbitmq: Message broker
+* Tomcat: Web application server
 
 
 ## Clone this repository to your local machine:
