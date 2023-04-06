@@ -2,6 +2,9 @@
 
 This project demonstrates how to create, manage, and deploy a Kubernetes cluster with auto scaling and auto healing capabilities for a multi-tier web application. The application stack consists of Memcached, Rabbitmq, and Tomcat, which have been containerized. The project also uses Docker Hub as the container registry and Git as the version control system.
 
+![Screenshot (307)](https://user-images.githubusercontent.com/70194383/230267454-71f36720-10b6-4e6c-8336-dbad800d62b8.png)
+
+
 ## Project Scenario
 
 The multi-tier application stack has been containerized and needs to be tested before it can be deployed for production use. The requirements for the deployment are that it should be highly available, fault-tolerant, easily scalable, platform-independent, portable, and flexible.
